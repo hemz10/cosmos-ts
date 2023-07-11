@@ -9,6 +9,9 @@ After the Dive package is installed run the below command to start a cosmos chai
 `kurtosis run . '{"action":"start_node","node_name":"cosmwasm"}' --enclave btp`
 
 ### To Run Demo 
+#### Change Directory
+`cd test`
+
 #### Install Dependencies 
 `npm install`
 
